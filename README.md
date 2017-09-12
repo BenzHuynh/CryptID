@@ -2,8 +2,8 @@
 Based on a formula defined here, the app will generate a unique password for any username.
 
 FORMULA:
-"even characters" + "odd characters" + (special character)* + "number of even letters" + "number of odd letters" + "number of numbers"
+"EVEN_CHARACTERS" + "ODD_CHARACTERS" + (special character)* + "NUMBER_OF_EVEN_LETTERS" + "NUMBER_OF_ODD_LETTERS" + "NUMBER_OF_NUMBERS"
 
-*Special character ASCII value = "number of letters" + "number of numbers"
+*Special character ASCII value = "NUMBER_OF_LETTERS" + "NUMBER_OF_NUMBERS"
 
 Ex. Bhuynh987 = Bun97hyh8?333
