@@ -5,6 +5,8 @@
 //  Created by Benz Huynh on 5/1/17.
 //  Copyright © 2017 Benz Huynh. All rights reserved.
 //
+//  This is the code that responded to GUI actions of the app, 
+//  mainly what happens when the enter buttton is clicked
 
 import UIKit
 
